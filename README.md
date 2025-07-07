@@ -1,4 +1,4 @@
-#Login
+# Login
 
 ## Descripción
 Este proyecto implementa un sistema de login y registro de usuarios utilizando HTML, CSS y JavaScript puro. Cuenta con validaciones básicas de formularios y una interfaz responsiva con animaciones para mostrar y ocultar formularios.
