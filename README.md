@@ -6,7 +6,7 @@ Este proyecto es una sencilla página web de autenticación que incluye formular
 
 ---
 
-## Descripción del proyecto
+### Descripción del proyecto
 
 - Página con dos formularios interactivos para iniciar sesión y registrar usuarios.
 - Validación en tiempo real para campos como correo electrónico y contraseña.
@@ -17,7 +17,7 @@ Este proyecto es una sencilla página web de autenticación que incluye formular
 
 ---
 
-## Tecnologías usadas
+### Tecnologías usadas
 
 - **HTML5** para la estructura semántica.
 - **CSS3** para estilos, animaciones y diseño responsivo.
@@ -26,3 +26,10 @@ Este proyecto es una sencilla página web de autenticación que incluye formular
 - **Google Fonts** para tipografía (Poppins).
 
 ---
+
+### Capturas de pantalla
+![Captura de pantalla 2025-07-07 091728](https://github.com/user-attachments/assets/d6f176e6-1fef-4db5-af1e-6f3f2d52ab8f)
+![Captura de pantalla 2025-07-07 091738](https://github.com/user-attachments/assets/7b1b2fe6-be04-460a-8019-02244f5b0c2a)
+
+### Github Pages
+https://jonathanser.github.io/login/
