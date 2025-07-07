@@ -62,7 +62,7 @@ document.getElementById('btn-login').addEventListener('click', function() {
 
     // Aquí puedes agregar validación con usuario predeterminado si quieres
     // Por ejemplo:
-    const usuarioValido = "usuario@ejemplo.com";
+    const usuarioValido = "usuario@gmail.com";
     const passValida = "123456";
 
     if (email === usuarioValido && pass === passValida) {
