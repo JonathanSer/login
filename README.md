@@ -50,4 +50,4 @@ Este proyecto implementa un sistema de login y registro de usuarios utilizando H
 ![Captura de pantalla 2025-07-07 091738](https://github.com/user-attachments/assets/4af2f702-a444-4d95-abfe-fe2580aa2239)
 
 ### Github Pages
-https://jonathanser.github.io/log
+https://jonathanser.github.io/login
