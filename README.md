@@ -43,3 +43,11 @@ Este proyecto implementa un sistema de login y registro de usuarios utilizando H
 - **Botones** estilizados con efectos hover para mejor interacción (`.btnLogin` y `.btn`).
 
 ---
+
+### Capturas de pantalla
+
+![Captura de pantalla 2025-07-07 091728](https://github.com/user-attachments/assets/12c636f3-eeaf-4718-b86e-0f3e6d2fe515)
+![Captura de pantalla 2025-07-07 091738](https://github.com/user-attachments/assets/4af2f702-a444-4d95-abfe-fe2580aa2239)
+
+### Github Pages
+https://jonathanser.github.io/log
